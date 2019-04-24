@@ -26,6 +26,7 @@ Or, how you can't do that.
     * Code generators, etc. Ideal tools would make this so much better!
   * Start "researching" other tools that have the features you imagined. But of course they're not good enough!
     * Odds are, the project doesn't need anything close to this!
+    * Shades of developer goldplating.
   * Start actually developing the tool
     * Pretend you're just going to make a little thing at first. It won't be **that** much of a distraction.
   * Solve the difficult engineering problems of the new, pure-engineering goal.
