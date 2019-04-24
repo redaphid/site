@@ -26,3 +26,5 @@ Aaron's heavy-handed attempts to organize himself.
   * Soon.
   * When Today is done, rename to date, archive it.
   * Next day, Tomorrow becomes Today.
+
+* Idea to have a machine very accessible and "ready" for random-access input. 
