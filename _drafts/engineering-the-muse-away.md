@@ -11,7 +11,7 @@ I love music. As a technical person who considers creating things to be incredib
 
 Of course, I was totally illiterate when it came to anything music-related. I never learned how to read sheet music, and my experience with playing an instrument was limited to "learning" the recorder in 4th grade after joining the class halfway through the year. (Whether skills beyond "the basics" exist for playing recorders is a question for future generations).
 
-Though I spent a lot of time learning Ableton, I often found myself switching tasks from my stated goal to experimenting with a different feature Ableton offers: creating entirely new instruments to play. The transition was a slow, inevitable, and nearly unnoticeable one. I justified little steps along the way as helping my actual goal of music creation. After all, I was spending so much time Ableton How could I *not* be learning how to make music?
+Though I spent a lot of time learning Ableton, I often found myself switching tasks from my stated goal to experimenting with a different feature Ableton offers: creating entirely new instruments to play. The transition was a slow, inevitable, and nearly unnoticeable one. I justified little steps along the way as helping my actual goal of music creation. After all, I was spending so much time Ableton! How could I *not* be learning how to make music?
 
 I spent progressively longer periods of time on these technical distractions, and would often end my Ableton activities proud of how much time I spent learning the software, despite having accomplished something only tangentally related to my stated goal.
 
