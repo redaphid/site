@@ -11,3 +11,11 @@ Aaron's heavy-handed attempts to organize himself.
   * Doesn't have to be a completed article. But at least a sentence!
   * Maybe free-form personal blog.
   * The inspected life.
+  
+* Maybe creative output goes like
+  * Do the creative thing.
+    * While doing it, write down feature ideas free-form as they come up, so you don't worry about losing them.
+  * outline for blog (at night?)
+  * blog
+  * Sometime later, a tool that implements the features.
+  * Blog about tool, link to blog about creative thing.

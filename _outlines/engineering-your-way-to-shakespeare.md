@@ -1,6 +1,7 @@
 Or, how you can't do that.
 
 # Look at how successful long-form blogs organize articles beforehand.
+* Ask for feedback. Disclaimer that you're not authoritative. Helps me, maybe others.
 
 * Start with a "sting" - why does it matter?
   * This blog is ugly. Good.
@@ -39,6 +40,7 @@ Or, how you can't do that.
       * Generating instruments instead of songs.
     * Overtone.
   * Space Game
+    * Maybe put at the end as an addendum!
     * Make own product
     * AR/VR interest and potential job opportunities.
     * Real physics became an engineering goal.
