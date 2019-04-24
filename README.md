@@ -1,2 +1,2 @@
 # site-jekyll
-My blog. May contain private "posts" at some point.
+Maybe my site will use Jekyll. Ya never know.
