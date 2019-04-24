@@ -92,7 +92,8 @@ Or, how you can't do that.
       * Wouldn't do this at all if contracted to do this.
   
   * So, what did I do instead?
-    * Focus on Lean Startup-esque principles of delivering.      
+    * Focus on Lean Startup-esque principles of delivering.
+    * Almost content-free first post.      
     * Moved my totally non-functional blog project to a different repo.
       * May use it as an example to go from CircleCI->Github pages.
     * Actually used Jekyll
