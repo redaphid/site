@@ -19,3 +19,10 @@ Aaron's heavy-handed attempts to organize himself.
   * blog
   * Sometime later, a tool that implements the features.
   * Blog about tool, link to blog about creative thing.
+
+* Simple GTD in Keep
+  * Today
+  * Tomorrow
+  * Soon.
+  * When Today is done, rename to date, archive it.
+  * Next day, Tomorrow becomes Today.
