@@ -5,7 +5,11 @@ Or, how you can't do that.
 
 * Start with a "sting" - why does it matter?
   * This blog is ugly. Good.
-    * Brief sting re: blog epic.
+    * Brief sting using Ableton.
+      * I love music
+      * I'm illiterate
+      * zen pencils
+      * Composition degenerating into instrument design.
   * I like writing - why don't I do it?
   * Clearly, some of this is my tumultuous personality, which I'm trying to correct. But I've seen this cycle repeat in **many** developer friends of mine, so it must be a real thing.
   
