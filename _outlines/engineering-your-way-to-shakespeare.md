@@ -96,6 +96,11 @@ Or, how you can't do that.
     * Moved my totally non-functional blog project to a different repo.
       * May use it as an example to go from CircleCI->Github pages.
     * Actually used Jekyll
+    * Setup Linux Subsystem for Windows.
+    * Installed ruby, debugged lack of compilation support
+    * Got Jekyll running locally.
+    * Figured out how to smash all posts into one big file
+    * Insisted on using only markdown, transcribed examples.
     * Intentionally make the blog as feature-free as possible
       * Write down the features not implementing in a disorganized thought dump to avoid "idea loss anxiety"
     * Use Jekyll. Actually read the docs. Hello world.
