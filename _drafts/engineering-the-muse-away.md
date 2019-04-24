@@ -18,10 +18,14 @@ I spent progressively longer periods of time on these technical distractions, an
  Eventually I spent too many sleepless nights accomplishing this new engineering goal *related* to the original and burned out, having learned almost nothing about actual music composition.
 
  I gradually became aware that many of my personal projects followed a similar trajectory. I made fun of myself to friends and coworkers in order to vent frustration about this harmful mental process I didn't understand. I started to notice the same pattern in some projects undertaken by otherwise-disciplined developer friends. I noticed it at work, where it was more easily hidden as most tasks were largely comprised of an engineering efforts.
- 
- I started talking to people about the problem over and over, which is my usual way of thinking through a things. This resulted in a pretty well-honed rant and a common part of Aaron's Oral Tradition (tm).
 
+ I love to talk about pretty much anything, and inevitably started talking to people about this over and over, gaining more insight into the problem over time. It became a mainstay of Aaron's Oral Tradition (tm): a series of stories and rants I repeat often enough to annoy anyone with regular exposure to me. I'd often thought about making a blog to store some of this body of "knowledge" to give everyone around me a break from my constant repetitive monologues, and with some free time on my hands a few months ago I embarked on a personal project to start a blog.
 
+Then The Problem struck. I somehow sidelined a simple blog project into a pure engineering one, following the familiar pattern of burning out and abandoning it after working on the interesting engineering aspects. Turning a blog project into an engineering one is a particularly ridiculous example of The Problem, so I started using it as an extreme example of this pattern. 
+
+Months later, I restarted the blog project from scratch, this time very mindful that it was susceptible to The Problem. As a result, I was able to avoid it and create this incredibly stylish blog.
+
+When it came time to write my first post, I knew what I had to do.
 
 ## The Problem
 
