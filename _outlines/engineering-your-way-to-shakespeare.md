@@ -123,3 +123,4 @@ Or, how you can't do that.
       * But only if that is the stated goal.
     * Record the features - a lot of this was due to an underlying motivation to make the tool, and a concern that I'd forget about all of the ideas I had while being a customer for my imaginary product.
     * Will it continue to work? This blog continuing will be the test.
+    * Satisfaction, refreshing my static blog over and over.
