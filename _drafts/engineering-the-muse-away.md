@@ -25,7 +25,7 @@ Then The Problem struck. I somehow sidelined a simple blog project into a pure e
 
 Months later I restarted the blog project from scratch, this time very mindful that it was susceptible to The Problem. As a result, I was able to avoid it and create this incredibly stylish blog.
 
-When it came time to write my first post, I knew what I had to do.
+When it came time to write my first post, I knew what I had to write about.
 
 ## The Problem
 
