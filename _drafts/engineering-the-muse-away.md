@@ -21,7 +21,7 @@ I spent progressively longer periods of time on these technical distractions, an
 
  I love to talk about pretty much anything, and inevitably started talking to people about this over and over, gaining more insight into the problem each time. It became a mainstay of Aaron's Oral Tradition (tm): a series of stories and rants I repeat often enough to annoy anyone with regular exposure to me. I'd often thought about making a blog to store this "knowledge" to give everyone around me a break from my constant repetitive monologues. With some free time on my hands a few months ago, I embarked on a personal project to start a blog.
 
-Then The Problem struck. I somehow sidelined a simple blog project into a pure engineering one, following the familiar pattern of burning out and abandoning it after working on the interesting engineering aspects. Turning a blog project into an engineering one is a particularly ridiculous, so I started using it as an extreme example of The Problem during my irregularly-scheduled rants. 
+Then The Problem struck. I somehow sidelined a simple blog project into a pure engineering one, following the familiar pattern of burning out and abandoning it after working on the interesting engineering aspects. Turning a blog project into an engineering one is particularly ridiculous, so I started using it as an extreme example of The Problem during my irregularly-scheduled rants. 
 
 Months later I restarted the blog project from scratch, this time very mindful that it was susceptible to The Problem. As a result, I was able to avoid it and create this incredibly stylish blog.
 
