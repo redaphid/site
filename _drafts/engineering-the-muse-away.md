@@ -17,7 +17,7 @@ I spent progressively longer periods of time on these technical distractions, an
 
  Eventually I spent too many sleepless nights accomplishing this new engineering goal *related* to the original and burned out, having learned almost nothing about actual music composition.
 
- I gradually became aware that many of my personal projects followed a similar trajectory. I made fun of myself to friends and coworkers in order to vent frustration about this harmful mental process that I didn't understand. I started to notice the same pattern in some projects undertaken by otherwise-disciplined developer friends. I noticed it at work, where it was easily hidden as most tasks were largely comprised of engineering efforts.
+ I gradually became aware that a certain class of my personal projects followed a similar trajectory. I made fun of myself to friends and coworkers to vent frustration about this harmful mental process that I didn't understand. I started to notice the same pattern in some projects undertaken by otherwise-disciplined developer friends. I noticed it at work, where it was easily hidden as most tasks were largely comprised of engineering efforts.
 
  I love to talk about pretty much anything, and inevitably started talking to people about this over and over, gaining more insight into the problem each time. It became a mainstay of Aaron's Oral Tradition (tm): a series of stories and rants I repeat often enough to annoy anyone with regular exposure to me. I'd often thought about making a blog to store this "knowledge" to give everyone around me a break from my constant repetitive monologues. With some free time on my hands a few months ago, I embarked on a personal project to start a blog.
 
