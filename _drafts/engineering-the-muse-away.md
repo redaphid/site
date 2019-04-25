@@ -23,7 +23,7 @@ I spent progressively longer periods of time on these technical distractions, an
 
 Then The Problem struck. I somehow sidelined a simple blog project into a pure engineering one, following the familiar pattern of burning out and abandoning it after working on the interesting engineering aspects. Turning a blog project into an engineering one is a particularly ridiculous example of The Problem, so I started using it as an extreme example of this pattern. 
 
-Months later, I restarted the blog project from scratch, this time very mindful that it was susceptible to The Problem. As a result, I was able to avoid it and create this incredibly stylish blog.
+Months later, I restarted the blog project from scratch, this time very mindful that it was susceptible to The Problem. As a result I was able to avoid it and create this incredibly stylish blog.
 
 When it came time to write my first post, I knew what I had to do.
 
