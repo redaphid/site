@@ -42,7 +42,7 @@ Often too much time, given that we're usually doing something else when ideas po
 
 ...when you have actually dedicated time to do it.
 
-Unlike 
+(this blog post as an example) 
 
 The same pattern occured when thinking about something interesting that happened today, and how it could make a good story. Or when I thought of long-term, repeatable goals (like stop looking like a hobo and shave every 3 days).
 
